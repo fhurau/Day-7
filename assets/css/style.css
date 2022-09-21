@@ -1,0 +1,16 @@
+
+nav {
+    height: 8vh;
+}
+
+.container-fluid d-flex justify-content-center mt-5 {
+    height: 92vh;
+}
+
+.container-form {
+    width: 450px;
+}
+
+.bg-grey{
+    background-color: #dddddd;
+}
